@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **MTA:SA BOT UCP**
+- 🔭 I’m currently working on **MTA:SA UCP BOT**
 
 - 🌱 I’m currently learning **React**
 
